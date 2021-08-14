@@ -1,3 +1,3 @@
-iris dataset youtube training
-VQC paper
-iris dataset classificationhttps://github.com/rifat19331279/files
+1.iris dataset youtube training 
+2. VQC paper
+3. iris dataset classificationhttps://github.com/rifat19331279/files
