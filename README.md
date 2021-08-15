@@ -4,6 +4,7 @@ References:
 2. VQC paper(https://arxiv.org/abs/1804.11326)<br/>
 3. Example 1 with adhoc data: (https://qiskit.org/documentation/stable/0.24/tutorials/machine_learning/03_vqc.html)<br/>
 4. Example 2 with explanaton:(https://github.com/Qiskit-Challenge-India/2020/blob/master/Day%206%2C%207%2C8/VQC_notebook.ipynb)
+5. Classical classification with SVM(https://github.com/Qiskit-Challenge-India/2020/blob/master/Day%205/Classical%20Support%20Vector%20Machines.ipynb)
 
 
 
